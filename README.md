@@ -1,8 +1,7 @@
-FOSOAuthServerBundle
+FOSOAuthServerBundle 
 ====================
 
-[![Build Status](https://secure.travis-ci.org/FriendsOfSymfony/FOSOAuthServerBundle.png)](http://travis-ci.org/FriendsOfSymfony/FOSOAuthServerBundle)
-
+Upgrade for Symfony ^6.0|^6.1 support and PHP ^8.0|^8.1
 
 ## Documentation
 
